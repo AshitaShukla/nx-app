@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "core": "libs/core",
+    "details": "apps/details",
+    "details-e2e": "apps/details-e2e",
+    "nav": "apps/nav",
+    "nav-e2e": "apps/nav-e2e",
+    "shell": "apps/shell",
+    "shell-e2e": "apps/shell-e2e"
+  }
+}
